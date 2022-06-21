@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054996243021",
+    "project_id": "dbmsproject-ab75d",
+    "storage_bucket": "dbmsproject-ab75d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054996243021:android:0de5603a5d80d50c723204",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054996243021-2rnadq730kpkh29p3qe9nemhuq9skkcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuST1deuC7T3UiK92gZxc1aqX-WxTQjnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054996243021-2rnadq730kpkh29p3qe9nemhuq9skkcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

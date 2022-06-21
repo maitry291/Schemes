@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DBMSUI" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">#00000000</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="colorControlHighlight">#1A000000</item>
+        <item name="android:textColorSecondary">@color/black</item> <!--menu dots color-->
+        <item name="itemBackground">@color/white</item>
+        <item name="android:itemBackground">@color/white</item>
+        <item name="android:textColorPrimary">@color/black</item> <!--menu item color-->
+        <item name="android:datePickerStyle">@style/datePickerTheme</item>
+    </style>
+
+    <style name="datePickerTheme" parent="ThemeOverlay.AppCompat.Dialog">
+        <item name="android:datePickerMode">spinner</item>   <!--to show popup as scrolling spinner-->
+        <!--<item name="android:datePickerMode">calendar</item>  - to show popup as calender-->
+    </style>
+</resources>

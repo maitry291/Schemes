@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DBMS UI</string>
+    <string name="sign_up_here"><u>Sign Up Here</u></string>
+    <string name="log_in_here"><u>Log In Here</u></string>
+</resources>
