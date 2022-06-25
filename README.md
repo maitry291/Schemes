@@ -9,16 +9,6 @@
 
 -Admin can add/delete/update schemes also.
 
-
- 
- ### 🖼️ Application video
- 
-<div>
-
-<video src='https://user-images.githubusercontent.com/83761752/175788307-5e8242d7-e81d-47cb-bd53-7b3de2d0ee1f.mp4' width=300 />
- 
-</div> 
-
 ### ⚒️ Tools 
 
 <a href="https://developer.android.com/studio">
@@ -44,3 +34,11 @@
 <img src="https://user-images.githubusercontent.com/83761752/174846793-2f925975-d1c1-46ec-a59c-a27ded02167a.jpg" width="250" height="500"/>
 
 </span>
+
+### 🖼️ Application video
+ 
+<div>
+
+<video src='https://user-images.githubusercontent.com/83761752/175788307-5e8242d7-e81d-47cb-bd53-7b3de2d0ee1f.mp4' width=300 />
+ 
+</div> 
