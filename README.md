@@ -37,10 +37,4 @@ he/she can register for that scheme in the app itself.
 
 </span>
 
-### 🖼️ Application video
- 
-<div>
 
-<video src='https://user-images.githubusercontent.com/83761752/175788307-5e8242d7-e81d-47cb-bd53-7b3de2d0ee1f.mp4' width=300 />
- 
-</div> 
